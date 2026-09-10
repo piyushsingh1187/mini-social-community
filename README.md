@@ -4,7 +4,7 @@ A simple full-stack **MERN Social/Community Application** built to revise and pr
 
 ## 🚀 Live Demo
 
-**[Visit Mini Social Community](https://mini-social-community-izixzcvj2-piyush1187.vercel.app)**
+**[Visit Mini Social Community](https://mini-social-community.vercel.app/)**
 
 ---
 
