@@ -455,4 +455,4 @@ Built as a hands-on MERN Stack revision project.
 
 ## ⭐ Live Project
 
-**[Open the Live Application →](https://mini-social-community-izixzcvj2-piyush1187.vercel.app)**
+**[Open the Live Application →](https://mini-social-community.vercel.app/)**
